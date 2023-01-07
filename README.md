@@ -5,6 +5,11 @@ I’m interested in getting more involved in linux distros, It's difficult to no
 I’m currently learning LaTeX and Markdown, just for creating content like documents as I find them practical and useful.
 
 
+2023
+
+Hard drives foramatted, starting the year clean with linux and some interesting proyects.
+
+
 <!---
 What is this?
 --->
