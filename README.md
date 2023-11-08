@@ -7,7 +7,7 @@ I’m currently learning LaTeX and Markdown, just for creating content like docu
 
 2023
 
-Hard drives foramatted, starting the year clean with linux and some interesting proyects.
+Hard drives formatted, starting the year clean with linux and some interesting proyects.
 
 
 <!---
